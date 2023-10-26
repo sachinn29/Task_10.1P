@@ -1,0 +1,14 @@
+.Text_Part{
+    float: left;
+    width: 100%;
+}
+.Text_Part_1{
+    border: 1px solid rgb(255, 255, 255);
+    background-color:#91cfe9;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    padding:10px;
+    border-radius: 10px;
+    font-size: 17px;
+}

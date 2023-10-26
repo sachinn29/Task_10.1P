@@ -1,0 +1,15 @@
+.Text_Part2{
+    width:100%;
+    float: left;
+    
+}
+.h3{
+    border: 1px solid rgb(255, 255, 255);
+    background-color:#91cfe9;
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 10px;
+    
+}

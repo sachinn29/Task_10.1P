@@ -1,0 +1,39 @@
+.Image_Box{
+    float: left;   
+    margin-top: 50px; 
+}
+.Image_img{
+   
+    border: 1px solid rgb(0, 0, 0);
+    width: 310px;
+    height: auto;
+    margin-top: 20px;
+    text-align: center;
+    background-color: #91cfe9;
+    border-radius: 30px;
+    margin-left: 250px;
+}
+.card-img, img{
+    margin-top: 20px;
+    width: 75%;
+    height: 270px;
+    border-radius: 30px;
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+.random{
+    text-align: center;
+    color: rgb(50, 55, 51);
+    text-shadow: #eef0d8;
+}
+.description{
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+}
+h1{
+    text-align: center;
+    font-size: 20px;
+}

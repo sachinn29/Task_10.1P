@@ -1,0 +1,51 @@
+.Last{
+    margin-top: 50px;
+    border:2px solid rgb(0, 0, 0);
+    width:100%;
+    height:100%;
+    background:linear-gradient(270deg, #91cfe9 0%, #b9b7b7 90%);
+}
+.Class_Last{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.Explore, .Support, .Connected{
+    text-align: center;
+    flex-grow: 1;
+    margin-left: 20px;
+}
+.Explore_1{
+    color:rgb(0, 0, 0);
+
+}
+.Support_1{
+    color:rgb(0, 0, 0);
+}
+.Section_2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+    font-size: 25px;
+}
+
+.header_1{
+    color: rgb(0, 0, 0);
+}
+
+#Paragraph{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.Div{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-weight: bolder;
+}
+h3
+{
+    color: black;
+}

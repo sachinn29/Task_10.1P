@@ -1,0 +1,30 @@
+.Element{
+    float: left;
+    margin-top:50px; 
+
+}
+.Element_Card{
+    
+    border: 1px solid rgb(0, 0, 0);
+    width: 310px;
+    height: auto;
+    margin-top: 20px;
+    text-align: center;
+    background-color: #91cfe9;
+    border-radius: 20px;
+    margin-left: 250px;
+    
+}
+
+.Element_Data{
+    text-align: center;
+    color: rgb(44, 47, 43);
+    font-size: 20px;
+}
+.description{
+    font-size: 15px;
+    color: rgb(104, 0, 0);
+}
+h2{
+    font-size: 20px;
+}

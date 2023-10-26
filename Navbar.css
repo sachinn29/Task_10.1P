@@ -1,0 +1,32 @@
+.NavBar{
+    display: flex;
+    border: 1px solid rgb(255, 255, 255);
+    width:100%;
+    height:50px;
+    background-image: linear-gradient(300deg, #676767 10%, #838383 74%);
+
+}
+.Input{
+    margin: auto;
+}
+.butn{
+    width: 100px;
+    height: 30px; /* Adjust the height as needed */
+    margin: 10px auto;
+    padding: 0;
+    background-color: rgb(158, 158, 158);
+    text-align: center;
+    line-height: 30px; /* Should be the same as the button's height */
+    border: none;
+    color: white;
+    font-size: 16px; /* Adjust the font size as needed */
+
+}
+.input_Hold{
+    padding:8px;
+    width:50%;
+    height:15px;
+    margin-right: auto;
+    margin-top: 8px;
+    margin-left: auto;
+}
